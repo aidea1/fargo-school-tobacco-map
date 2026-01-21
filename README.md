@@ -2,4 +2,6 @@ This repository hosts an interactive, web-based geospatial map assessing the pro
 
 This project applies spatial epidemiology methods to characterize the retail tobacco environment surrounding public schools in Fargo, ND. Using geocoded school locations and tobacco/vape retailer data from Google Places, great-circle distance metrics are computed to identify proximity-based exposure patterns. Results are visualized through an interactive map designed to support tobacco control policy discussions and school health planning.
 
-One-line citation-style description: Interactive geospatial analysis of tobacco and vape retailer proximity to public schools in Fargo, ND.
+Citation: Interactive geospatial analysis of tobacco and vape retailer proximity to public schools in Fargo, ND.
+
+## View: https://aidea1.github.io/weightloss-misinformation-dashboard/
