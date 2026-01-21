@@ -4,4 +4,4 @@ This project applies spatial epidemiology methods to characterize the retail tob
 
 Citation: Interactive geospatial analysis of tobacco and vape retailer proximity to public schools in Fargo, ND.
 
-## View: https://aidea1.github.io/weightloss-misinformation-dashboard/
+## View dashboard: https://aidea1.github.io/fargo-school-tobacco-map/
